@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vlvovch/FIST-jupyter/master?filepath=FitExample.ipynb)
+
+
 ## Description
 
 This repository contains an example using the [Thermal-FIST](https://github.com/vlvovch/Thermal-FIST) package in an interactive Jupyter session.
