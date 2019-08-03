@@ -18,7 +18,7 @@ A Python environment with [Jupyter Notebook](https://jupyter.org/) and [xeus-cli
     mkdir build
     cd build
     cmake -DBUILD_SHARED_LIBS=ON -DSTANDALONE_MINUIT=ON ../
-    make Thermal-FIST
+    make ThermalFIST
     ```
     This will build the shared libraries in folder Thermal-FIST/build/lib.
  1. Run jupyter notebook from the repository root directory, open it in browser and try to execute the `FitExample.ipynb` notebook. If everything is in order, it will perform a thermal fit to ALICE 2.76 TeV Pb-Pb data.

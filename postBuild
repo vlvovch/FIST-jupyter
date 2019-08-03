@@ -4,5 +4,5 @@ git pull origin master
 mkdir build
 cd build
 cmake -DBUILD_SHARED_LIBS=ON -DSTANDALONE_MINUIT=ON ../
-make Thermal-FIST
+make ThermalFIST
 cd ../..
